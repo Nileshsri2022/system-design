@@ -33,3 +33,5 @@ Every issue with a deep Hinglish summary and diagrams, month-wise inside each ye
 - [ByteByteGo — Scale From Zero To Millions Of Users](https://bytebytego.com/courses/system-design-interview/scale-from-zero-to-millions-of-users)
 - [System Design Primer](https://github.com/donnemartin/system-design-primer)
 - [ByteByteGo Newsletter](https://blog.bytebytego.com)
+- [Papers with Code](https://paperswithcode.co/) — trending research papers and open source
+- [Hugging Face Papers](https://huggingface.co/papers/) — daily papers
